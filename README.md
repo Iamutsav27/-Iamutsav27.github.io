@@ -19,3 +19,13 @@ Right now, I am doing my master's in cybersecurity. I am now eager to transition
 - Google Cybersecurity Professional Certificate - Coursera
 - Security Operations and the Defense Analyst - splunk
 - AWS Cloud Practitioner Certification Course(currently enrolled) - geeksforgeeks
+
+### Tools Used
+
+- Security Information and Event Management (SIEM) system for log ingestion and analysis.
+- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
+
+## Case study
+- Malware Analysis
+
+
