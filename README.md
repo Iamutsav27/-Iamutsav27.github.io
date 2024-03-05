@@ -26,6 +26,6 @@ Right now, I am doing my master's in cybersecurity. I am now eager to transition
 - Network analysis tools (such as Wireshark) for capturing and examining network traffic.
 
 ## Case study
-- Malware Analysis
+- <a href="https://github.com/Iamutsav27/Malware-Analysis?tab=readme-ov-file">Malware Analysis</a>
 
 
