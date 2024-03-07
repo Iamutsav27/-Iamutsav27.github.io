@@ -29,6 +29,6 @@ Right now, I am doing my master's in cybersecurity. I am now eager to transition
 - <a href="https://github.com/Iamutsav27/Malware-Analysis?tab=readme-ov-file">Malware Analysis</a>
 
 ## Project
-- <a href="https://github.com/Iamutsav27/Malware-Analysis?tab=readme-ov-file">SIEM-deploy wazuh agent in linux</a>
+- <a href="https://github.com/Iamutsav27/SIEM-deploy-wazuh-agent-linux?tab=readme-ov-file">SIEM-deploy wazuh agent in linux</a>
 
 
