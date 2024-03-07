@@ -28,4 +28,7 @@ Right now, I am doing my master's in cybersecurity. I am now eager to transition
 ## Case study
 - <a href="https://github.com/Iamutsav27/Malware-Analysis?tab=readme-ov-file">Malware Analysis</a>
 
+## Project
+- <a href="https://github.com/Iamutsav27/Malware-Analysis?tab=readme-ov-file">SIEM-deploy wazuh agent in linux</a>
+
 
